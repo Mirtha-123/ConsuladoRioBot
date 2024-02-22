@@ -1,0 +1,41 @@
+{
+    "name": "base-wweb-mongo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "prestart": "npx eslint . --no-ignore",
+        "pre-copy": "cd .. && npm run  copy.lib base-wweb-mongo",
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "dependencies": {
+        "@bot-whatsapp/bot": "^0.1.38",
+        "@bot-whatsapp/cli": "latest",
+        "@bot-whatsapp/database": "latest",
+        "@bot-whatsapp/portal": "latest",
+        "@bot-whatsapp/provider": "latest",
+        "@google-cloud/firestore": "^7.3.0",
+        "@langchain/openai": "^0.0.14",
+        "@open-wa/wa-automate": "^4.67.0",
+        "@pinecone-database/pinecone": "^2.0.1",
+        "@whiskeysockets/baileys": "^6.6.0",
+        "axios": "^1.6.7",
+        "dotenv": "^16.4.1",
+        "express": "^4.18.2",
+        "firebase": "^10.8.0",
+        "google-auth-library": "^9.6.0",
+        "google-spreadsheet": "^4.1.1",
+        "googleapis": "^131.0.0",
+        "mime-types": "^2.1.35",
+        "mongodb": "^4.12.1",
+        "wa-sticker-formatter": "^4.4.4",
+        "whatsapp-web.js": "1.23.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.52.0",
+        "eslint-plugin-bot-whatsapp": "latest"
+    },
+    "author": "",
+    "license": "ISC"
+}

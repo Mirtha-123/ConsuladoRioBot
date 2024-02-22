@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "consuladoriojanerio",
+  "private_key_id": "a243c98b202b5542107ac094667f014fc6616d29",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2Dp4R1vWTK8ZJ\njE9w1bM2i49dZ9IL6DG/OjUSiffZUWl1wLwibR9gj9R8MF9oXiZRX9R50pBCDIht\nYRi6T9QwX1qgpuWxnrKE5rYVBzNgFT2KkqThtPiN58tqoyiEbh0iz/k1ov8aPE3p\nUxbVxJLyLNe9F/5e39kC/qzLkO9NSiUgG9jb267XGRX0Ctr5QMfiQYCHDxtA+6Lo\nCLLcW2ZJ6fIQKasDaIzYsl6Bd6rFjFuqGV015Vu6RS6ZU2lmcjEXUxcvL4fa1z3m\nVvLOASLLlPIuXlInlScJDfRoF0yWW7XBDtSDy2ZN+ZsJ9uv54ZS+quH0sUU6pi7u\njhGs7g3fAgMBAAECggEAOf+9JuTK9nhPItYy5rkF734VjcXJ+mYeFxRFnSLcFV0k\n0lE0/miyQtJ/eJL2iirYXTtA1xCYSZpxihsRRCWzbTeriRuyeFwc9k8Duf5BxT3v\nDar7ITbEqnyqZs4U1d+4o4MLGyXSzHpivc7tKuwFfmZ/0muG65W3rocQ6IdDXWUT\nugdlm1c8PTMO7drpWAnrEKnon7R09oBFW6ABcuE7YZ6oNFDLyF62N5FXuMGDM6px\nc6v5W/6NCK4QwNU7EuptqorcKPn//8o9AFc49LJkpnJDaMDl8tAU4qNlGrO1HGAi\nT6crQNsXMVnsQMRykNBw7oF2Z75G6pvpPNeB1M5xUQKBgQDxJuv0P3ZREjXAk1FA\ncIkQE/BqBm/9ISA6NlMHtREi4A0vPaSf1TCHWfPq+C6VAHkevBNElpO4tnZsn0kb\nR8WPDo7JW359sqDdhlIJBzFiUAUkX9nrL0wDROr96wSkZ8iWvY7kCSKhieJ/e80G\ncVvKtD3zTc2URkSwK3SdsN0D8QKBgQDBRDtIPoloYdScsoqRAFyBCH3KHMadozeG\nS2Va+ju5ZpzTdh+wiTX8KSVxlFFhYkCibBi7r/PeA5RgNJa2N6tR6ZE7k+r/6979\n7VwktkwYx3LeZv8U0/qx4rNq8kHu4umhGQAaXSRNQsL0zQA/IvLuY+3U24Tx/yeU\nipoZBPu+zwKBgQDtetHkf1ap8c/jbHAYkHo5zhj0oJBKbAPLr9HGhkZw3Mm/Gupy\nyER5FlmBrJRbAdNFNBuZcNvajD1FLPuWlPB1t/VfT+3aJT4LyYoh/+ZfFcRqlMYK\nuFIX6hespHO238mGwPflkyV6hUn7F1TJonqtvSBA6P6ppSVhg/ncjN6qUQKBgByg\nKZOyx5FxZBdtjn6ZqhnmkxMbngN9SF0Yz8Ng6vW0ECh2B42TVS6rPYOML12YOvCT\nyDoMfrd0mkaBo40Lw9FXIg7MAvOzEQ1VWd+KLM1CxW3RnZiNKUWtyVte1Is4itg0\npsJA536WE+BEePPhDlBm9rQfa5qYa1liCh8IkO0bAoGAbhmjwRiBc0pCFYA8Qout\npA7jfGC3AFElvQs+39iAXMy9pbzve8xGf0Jte6YK9zTMtZEUXq+OTgad0KddC0KU\n9cFDcXqN6ToPfMJL5qbZNeaRdZaDIXn7QOHZBevtV7P/wFC7ebU+do5HbSBNNjUZ\nf9bDeUM2hDim6JY/sbvKYko=\n-----END PRIVATE KEY-----\n",
+  "client_email": "riojaneirobd@consuladoriojanerio.iam.gserviceaccount.com",
+  "client_id": "118000184007080496365",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/riojaneirobd%40consuladoriojanerio.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

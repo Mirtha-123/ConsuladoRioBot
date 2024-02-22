@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "Service": "regitroCivil/DobleNacionalidad",
+        "data": [
+            {
+                "id_services": 12,
+                "services": "1️⃣1️⃣ Duplicado de Certificados de Nacimiento, Matrimonio y/o Defunción"
+            },
+            {
+                "id_services": 13,
+                "services": "1️⃣2️⃣ Duplicado de Libreta Familiar"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "Service": "NotariaFePublica"
+    },
+    {
+        "id": 3,
+        "Service": "AntecedentesPenalesREJAP"
+    },
+    {
+        "id": 4,
+        "Service": "TramitesEnGeneral"
+    },
+    {
+        "id": 5,
+        "Service": "TramitesAdminitrativos/Vivencias"
+    },
+    {
+        "id": 6,
+        "Service": "CedulasDeIdentidadSEGIP"
+    },
+    {
+        "id": 7,
+        "Service": "ConsuladoEnLinea"
+    },
+    {
+        "id": 8,
+        "Service": "Aduana/Migracion/Restricciones"
+    },
+    {
+        "id": 9,
+        "Service": "Visas"
+    }
+]
