@@ -1,14 +1,10 @@
-const { Pinecone } = require('@pinecone-database/pinecone');
+
 const BotWhatsaap = require('@bot-whatsapp/bot');
 const { downloadMediaMessage } = require('@whiskeysockets/baileys')
 const { writeFile } = require("node:fs/promises");
 
-const { chatFotoPDF } = require('./../../services/openai/index.js')
 const fs = require('fs');
 
-const pc = new Pinecone({
-    apiKey: 'd4e80e91-cfd5-4542-97b5-8c30d709bca4',
-});
 
 const { getImagesRepo } = require('./../../services/firebase/images.js');
 const { CargarData, LeerData } = require('../../services/cloudStorage/index.js');
